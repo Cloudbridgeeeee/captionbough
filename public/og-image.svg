@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#ffe14d" stop-opacity=".35"/><stop offset="1" stop-color="#08080a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08080a"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe14d"/><stop offset="1" stop-color="#3fd0ff"/></linearGradient></defs><rect x="4" y="4" width="56" height="56" rx="16" fill="url(#g)"/><path d="M12 38c6-8 10-8 16 0s10 8 16 0 8-8 10-6" fill="none" stroke="#ff7ab6" stroke-width="5" stroke-linecap="round"/><path d="M12 26c6-8 10-8 16 0s10 8 16 0 8-8 10-6" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/></g>
+  <text x="190" y="150" font-family="Schibsted Grotesk, Georgia, serif" font-size="54" font-weight="600" fill="#f4f4f6">CaptionBough</text>
+  <text x="80" y="330" font-family="Schibsted Grotesk, Georgia, serif" font-size="72" font-weight="800" fill="#f4f4f6">Make business video</text>
+  <text x="80" y="414" font-family="Schibsted Grotesk, Georgia, serif" font-size="72" font-weight="800" fill="#f4f4f6">content more accessible.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#ffe14d" letter-spacing="4">MEDIA TECHNOLOGY  ·  EDUCATION  ·  ACCESSIBILITY TECHNOLOGY</text>
+</svg>

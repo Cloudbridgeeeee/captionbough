@@ -1,0 +1,16 @@
+{
+  "name": "CaptionBough",
+  "short_name": "CaptionBough",
+  "description": "AI video accessibility software that transcribes authorized recordings, generates editable multilingual captions and helps reviewers identify transcription inconsistencies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#08080a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
