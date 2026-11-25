@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for CaptionBough.
 - Industry: Media Technology, Education, Accessibility Technology
 - Founder: Oluwafunmilayo Adebisi (Founder & CEO)
 - Co-founder: Michael Ikenna (Co-founder & CTO)
-- Contact: oluwafunmilayo@captionbough.top
+- Contact: oluwafunmilayo@captionbough.site
 - Business model: Processing-minute subscriptions
 
 ## Stack
